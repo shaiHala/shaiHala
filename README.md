@@ -31,23 +31,27 @@ I'm also experienced in building **native mobile plugins** using **Capacitor, Ko
 ---
 
 ## 🔥 Featured Projects
+- **🔹 SharePoint Automation**  
+  Created custom SharePoint workflows to streamline internal processes and improve collaboration.
+
+- **🔹 Face Detection Plugin **  
+  Engineered native Kotlin/Swift plugins with Capacitor for real-time face and landmark detection in hybrid mobile apps.
+
+- **🔹 Zakat Calculator Web App**  
+  Developed a web-based Zakat calculator using HTML, CSS, and JavaScript with Lodash. Designed to help users easily input financial figures and instantly determine Zakat obligations based on nisab thresholds. The app emphasized simplicity, accuracy, and responsive UX.
 
 - **🔹 Property Booking Platform with External Integrations**  
-  Built a robust real estate and rental booking platform with Laravel and JavaScript. Integrated Guesty APIs and Google Cloud Storage for property sync and media handling.
+  Built a full-featured property booking application with SEO optimization. The backend was developed using Spring Boot microservices integrated with Google Cloud Storage and Guesty APIs. The customer-facing website was created using Laravel, JavaScript, and Lodash, while the admin dashboard was built with React for real-time property and booking management.
 
 - **🔹 Hotel Booking Website & Admin Dashboard**  
   Developed a hotel booking platform with a public-facing reservation site and an internal admin panel using Laravel and MySQL. Implemented availability calendars, booking flows, and property management.
 
-- **🔹 Face Detection Plugin – Edaa**  
-  Engineered native Kotlin/Swift plugins with Capacitor for real-time face and landmark detection in hybrid mobile apps.
 
-- **🔹 SharePoint Automation – Qatar University**  
-  Created custom SharePoint workflows to streamline internal processes and improve collaboration.
-
-- **🔹 Club Management App – DEV-GROUP**  
+- **🔹 Club Management App **  
   Delivered a full-stack sports club management platform using Spring Boot (microservices) and AngularJS.
 
-- **🔹 Remote SaaS Projects – 01 Communication**  
+
+- **🔹 Remote SaaS Projects  **  
   Developed full-stack SaaS applications using React, Laravel, and Spring Boot with a focus on SEO, testing, and performance.
 
 ---
@@ -160,18 +164,22 @@ I'm also experienced in building **native mobile plugins** using **Capacitor, Ko
 </a> &nbsp;
 
 
+
+### Badges
+#### My GitHub Stats
+
+<br/>
+
+
+
 ## 📫 Let's Connect
 
 - 📮 Email: h.oukhira@outlook.com  
 - 🌐 Portfolio: Coming Soon
-
-
-<br/>
+  
 <a href="http://www.github.com/shaiHala"><img
 src="https://streak-stats.demolab.com/?user=shaiHala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
 <br/>
 <a href="https://github.com/shaiHala" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiHala&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
 
----
 
-![Hala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=halaoukhira&show_icons=true&theme=calm)
