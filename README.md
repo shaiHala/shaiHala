@@ -164,18 +164,12 @@ I'm also experienced in building **native mobile plugins** using **Capacitor, Ko
 </a> &nbsp;
 
 
-
-### Badges
-#### My GitHub Stats
-
-<br/>
-
-
-
 ## 📫 Let's Connect
 
 - 📮 Email: h.oukhira@outlook.com  
 - 🌐 Portfolio: Coming Soon
+
+<--
   
 <a href="http://www.github.com/shaiHala"><img
 src="https://streak-stats.demolab.com/?user=shaiHala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
@@ -183,3 +177,4 @@ src="https://streak-stats.demolab.com/?user=shaiHala&stroke=ffffff&background=1c
 <a href="https://github.com/shaiHala" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiHala&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
 
 
+-->
